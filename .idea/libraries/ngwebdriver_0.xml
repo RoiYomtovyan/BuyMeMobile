@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ngwebdriver-0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ngwebdriver-0.9" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ngwebdriver-0.9" recursive="false" />
+  </library>
+</component>

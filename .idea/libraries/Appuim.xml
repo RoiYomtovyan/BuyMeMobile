@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Appuim">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Appuim" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Appuim" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<ReportPath>C:\Users\roi.yomtovyan\Desktop\MobileAppReport.html</ReportPath>
+<AppPackage>il.co.mintapp.buyme</AppPackage>
+<appActivity>il.co.mintapp.buyme.activities.common.SplashScreen</appActivity>
+</config>
